@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPSLogger</string>
+    <string name="gps_logger_stoped">GPS Logger parou! verifique!</string>
+</resources>
